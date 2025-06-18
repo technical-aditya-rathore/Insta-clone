@@ -403,7 +403,3 @@ Every code snippet already starts with the notice below—copy it to **all** new
 
 
 ---
-
-### That’s it, Boss.
-
-Spin it up, tweak the UI, and rule your digital empire. If you need the project zipped or want specific extras (Dockerfile, CI/CD, story feature, etc.), just snap your fingers.
